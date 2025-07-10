@@ -33,14 +33,14 @@ We defined a 3-shift glass production process and simulated operational data usi
 
 ---
 
-## 📅 Next Steps
+## Next Steps
 
 **Phase 2: Exploratory Data Analysis (EDA)**  
 Analyze trends by shift, product type, and rework outcomes.
 
 ---
 
-## 💡 Project Goal
+## Project Goal
 
 By the end, this dashboard will help:
 - Monitor process efficiency and product quality
