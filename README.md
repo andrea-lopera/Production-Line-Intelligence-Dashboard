@@ -48,6 +48,26 @@ By the end, this dashboard will help:
 - Demonstrate analytics and reporting skills using realistic operations data
 
 ---
+## Phase 2: Exploratory Data Analysis
 
+We explored the simulated production dataset to uncover trends in processing time, rework, and downtime.
+
+### Key Analyses:
+- Units produced per shift
+- Average cycle time by product category
+- Rework rates by shift
+- Downtime patterns by product type
+- Distribution of rework reasons
+
+### Key Insights:
+- All three shifts produced equal volume
+- Stairs and Walls had the longest average cycle times
+- Rework rate averaged ~9%, highest in Shift 1
+- Downtime was highest for Stairs and Flooring
+- Most common rework reason: Misaligned Frame
+
+Notebook: `notebooks/02_eda.ipynb`  
+Charts folder: `plots/`
+---
 *This project is part of a career portfolio in manufacturing analytics and process intelligence.*
 
