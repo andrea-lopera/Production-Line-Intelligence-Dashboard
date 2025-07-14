@@ -33,21 +33,6 @@ We defined a 3-shift glass production process and simulated operational data usi
 
 ---
 
-## Next Steps
-
-**Phase 2: Exploratory Data Analysis (EDA)**  
-Analyze trends by shift, product type, and rework outcomes.
-
----
-
-## Project Goal
-
-By the end, this dashboard will help:
-- Monitor process efficiency and product quality
-- Identify shifts or product types with high rework or downtime
-- Demonstrate analytics and reporting skills using realistic operations data
-
----
 ## Phase 2: Exploratory Data Analysis
 
 We explored the simulated production dataset to uncover trends in processing time, rework, and downtime.
@@ -68,6 +53,14 @@ We explored the simulated production dataset to uncover trends in processing tim
 
 Notebook: `notebooks/02_eda.ipynb`  
 Charts folder: `plots/`
+
 ---
+
+## Project Goal
+
+By the end, this dashboard will help:
+- Monitor process efficiency and product quality
+- Identify shifts or product types with high rework or downtime
+- Demonstrate analytics and reporting skills using realistic operations data
 *This project is part of a career portfolio in manufacturing analytics and process intelligence.*
 
