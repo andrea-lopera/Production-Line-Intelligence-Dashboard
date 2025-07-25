@@ -69,7 +69,7 @@ In this phase, we transformed the CSV data into an interactive Tableau dashboard
 - Filters: Product category, Shift, Rework flag  
 
 ### Dashboard:
-> [🔗 View Tableau Dashboard (click here)](https://public.tableau.com/app/profile/andrea.lopera/viz/ProductionOverview_17533150768050/ProductionOverview?publish=yes))
+> [🔗 View Tableau Dashboard ([click here](https://public.tableau.com/app/profile/andrea.lopera/viz/ProductionKPIsDowntimeTrends/ProductionOverview))]
 
 ### Files:
 - Tableau Workbook: `dashboards/production_dashboard.twbx`  
