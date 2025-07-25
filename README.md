@@ -71,8 +71,8 @@ In this phase, we transformed the CSV data into an interactive Tableau dashboard
 ### Dashboard with Tableau:
 Here's a preview of the final interactive dashboard built in Tableau Public:
 
-[Production Insights Preview](dashboards/screenshots/production_thumbnail.png)
-[Quality Insights Preview](dashboards/screenshots/quality_thumbnail.png)
+[![Production Insights Preview](dashboards/screenshots/production_thumbnail.png)]
+[![Quality Insights Preview](dashboards/screenshots/quality_thumbnail.png)]
 
 > [🔗 View Tableau Dashboard ([click here](https://public.tableau.com/app/profile/andrea.lopera/viz/ProductionKPIsDowntimeTrends/ProductionOverview))]
 
