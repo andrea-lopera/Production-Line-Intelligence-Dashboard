@@ -77,19 +77,26 @@ Here's a preview of the final interactive dashboard built in Tableau Public:
 > [🔗 View Tableau Dashboard ([click here](https://public.tableau.com/app/profile/andrea.lopera/viz/ProductionKPIsDowntimeTrends/ProductionOverview))]
 
 ### Files:
-- Tableau Workbook: `dashboards/production_dashboard.twbx`  
+- Tableau Workbook: `dashboards/Production Overview.twbx`  
 - Preview: `dashboards/screenshots/`
 
 ---
 
-## 🧩 Project Goal
+## Project Goal
 
 By the end, this dashboard will help:
 - Monitor process efficiency and product quality  
 - Identify shifts or product types with high rework or downtime  
-- Demonstrate analytics and reporting skills using realistic operations data  
+- Demonstrate analytics and reporting skills using realistic operations data
 
-> 📌 This project is part of a career portfolio in **manufacturing analytics** and **process intelligence**.
+---
+
+## Project Summary
+
+> This simulated analytics project replicates how a Data Analyst would monitor and improve a real glass manufacturing line. From simulating shift-level production data to uncovering root causes of rework, the project concludes with a Tableau dashboard ready for stakeholder reporting.
+
+
+> This project is part of a career portfolio in **manufacturing analytics** and **process intelligence**.
 
 
 
