@@ -68,7 +68,12 @@ In this phase, we transformed the CSV data into an interactive Tableau dashboard
 - Line Chart: Units over time  
 - Filters: Product category, Shift, Rework flag  
 
-### Dashboard:
+### Dashboard with Tableau:
+Here's a preview of the final interactive dashboard built in Tableau Public:
+
+[![Dashboard Preview](dashboards/screenshots/Production Overview.png.png)]
+
+
 > [🔗 View Tableau Dashboard ([click here](https://public.tableau.com/app/profile/andrea.lopera/viz/ProductionKPIsDowntimeTrends/ProductionOverview))]
 
 ### Files:
